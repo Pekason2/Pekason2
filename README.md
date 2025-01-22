@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- I'm currently an apprentice and learn the profession of Computer Science Expert for Application Development
+- I mainly program small games
+- I use the progamming languages PHP, HTML, Javascript, C# and also know a little bit of Unity
 <!--
 **Pekason2/Pekason2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
